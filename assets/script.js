@@ -87,5 +87,3 @@ function checkParent(t, elm) {
 	return false;
 }
 
-
-<script src="https://gumroad.com/js/gumroad.js"></script>
